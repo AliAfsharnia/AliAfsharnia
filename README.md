@@ -1,8 +1,8 @@
 # 💫 About Me:
-👋 Hi, I’m @AliAfsharnia
-💻 I’m currently working on a private project with NESTJS
-🚀I’m interested in improving my dev skills
-📫 How to reach me aliafsharnia.work@gmail.com
+👋 Hi, I’m @AliAfsharnia<br>
+💻 I’m currently working on a private project with NESTJS<br>
+🚀I’m interested in improving my dev skills<br>
+📫 How to reach me aliafsharnia.work@gmail.com<br>
 
 
 # 💻 Tech Stack:
